@@ -69,16 +69,11 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeevan-bhatt-a4ba22121" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:codingwithjiwan@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jeevanbhatt.com.np" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-jeevanbhatt.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/jeevan-bhatt-a4ba22121"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:codingwithjiwan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jeevanbhatt.com.np"><img src="https://img.shields.io/badge/Website-jeevanbhatt.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
+
 
 <hr/>
 
