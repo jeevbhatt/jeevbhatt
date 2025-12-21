@@ -21,7 +21,7 @@
 - 📚 **Learning**: `React.js`, `Next.js`, `Drizzle ORM`, `Supabase`, `Backend APIs`  
 - 🧪 **Projects**: MERN SaaS tools, data apps, and educational platforms  
 - 📫 **Reach me**: [📩 Email](mailto:codingwithjiwan@gmail.com) • [🌐 jeevanbhatt.com.np](https://jeevanbhatt.com.np)  
-- 🔗 **LinkedIn**: [linkedin.com/in/jeevbhatt](https://linkedin.com/in/jeevbhatt)
+- 🔗 **LinkedIn**: [linkedin.com/in/jeevbhatt](https://linkedin.com/in/jeevanbhatt10000)
 
 <hr/>
 
