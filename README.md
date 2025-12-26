@@ -36,17 +36,6 @@
 
 <hr/>
 
-## 📂 What You’ll Find Here
-
-- 📦 **Well-structured repositories**
-- 🧠 **Clear commit history**
-- 🧪 **Practice projects & experiments**
-- 🏫 **Educational & academic systems**
-- 🔁 **Continuous improvement over time**
-
-> All activity shown on this profile is **directly from GitHub**  
-> No external statistics or generated rankings.
-
 <hr/>
 
 ## 🛠️ Working Principles
