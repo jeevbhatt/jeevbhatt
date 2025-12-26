@@ -3,10 +3,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm <span style="color:#58A6FF;">Jeevan Bhatt</span>
 </h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer • 🧑‍🏫 Educator • 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer • 🧑‍🏫 Educator • 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full-Stack+Developer+in+progress...;Passionate+about+React,+Node.js,+and+PHP;Learning+by+building+real+projects!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full-Stack+Developer+in+progress...;Passionate+about+React.js,+Next.js,+and+Node.js;Learning+by+building+real+projects!" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education**: B.Ed. in Computer Science & IT  
-- 📚 **Learning**: `React.js`, `Next.js`, `Drizzle ORM`, `Supabase`, `Backend APIs`  
+- 📚 **Learning**: `React.js`, `Next.js`, `Prisma ORM`, `Supabase`, `Backend APIs`  
 - 🧪 **Projects**: MERN SaaS tools, data apps, and educational platforms  
 - 📫 **Reach me**: [📩 Email](mailto:codingwithjiwan@gmail.com) • [🌐 jeevanbhatt.com.np](https://jeevanbhatt.com.np)  
 - 🔗 **LinkedIn**: [linkedin.com/in/jeevbhatt](https://linkedin.com/in/jeevanbhatt10000)
@@ -69,7 +69,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeevan-bhatt-a4ba22121"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jeevanbhatt10000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:codingwithjiwan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://jeevanbhatt.com.np"><img src="https://img.shields.io/badge/Website-jeevanbhatt.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
