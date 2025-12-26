@@ -36,7 +36,6 @@
 
 <hr/>
 
-<hr/>
 
 ## 🛠️ Working Principles
 
