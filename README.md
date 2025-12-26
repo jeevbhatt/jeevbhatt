@@ -15,17 +15,23 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Ed. in Computer Science & IT  
-- 🧑‍🏫 Computer Teacher & Full-Stack Developer  
-- 🌱 Learning: React, Next.js, Prisma, Sequelize, Supabase  
-- 🛠️ Focus: SaaS systems, educational platforms, backend APIs  
+- 🎓 **Education**: B.Ed. in Computer Science & IT  
+- 🧑‍🏫 **Profession**: Computer Teacher & Full-Stack Developer  
+- 🌱 **Currently Learning**: React, Next.js, Prisma, Sequelize, Supabase  
+- 🛠️ **Focus Areas**: SaaS systems, educational platforms, backend APIs  
+- 📫 **Contact**:
+  - Email: [codingwithjiwan@gmail.com](mailto:codingwithjiwan@gmail.com)
+  - Website: [jeevanbhatt.com.np](https://jeevanbhatt.com.np)
+  - LinkedIn: [linkedin.com/in/jeevanbhatt10000](https://linkedin.com/in/jeevanbhatt10000)
 
 <hr/>
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,prisma,sequelize,mysql,mongodb,git,github,vscode,figma,wordpress&perline=8" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,prisma,sequelize,mysql,mongodb,git,github,vscode,figma,wordpress&perline=8"
+  />
 </p>
 
 <hr/>
@@ -34,7 +40,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jeevbhatt&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=jeevbhatt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
     width="48%"
     alt="GitHub Stats"
   />
@@ -53,24 +59,18 @@
   />
 </p>
 
-> ⚠️ *If stats don’t load instantly, GitHub caching or API rate limits are the cause. Refresh after a minute.*
+<hr/>
+
+## 🛤️ Developer Roadmap
+
+- ✅ Personal portfolio website  
+- 🔄 Full-stack React / Next.js SaaS application  
+- ⛏️ Open-source contributions  
+- ✍️ Technical blogging / YouTube (planned)
 
 <hr/>
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jeevbhatt&theme=flat&no-frame=true&margin-w=10&column=5"
-    alt="GitHub Trophies"
-  />
-</p>
-
-> ℹ️ *Trophies may fail temporarily due to external service downtime.*
-
-<hr/>
-
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jeevanbhatt10000">
