@@ -1,91 +1,86 @@
-<!-- ========================= -->
-<!--  GitHub Profile README   -->
-<!--  Jeevan Bhatt            -->
-<!-- ========================= -->
+<!-- ================================= -->
+<!--  GitHub Profile README (Stable)   -->
+<!--  Jeevan Bhatt                     -->
+<!-- ================================= -->
 
-<h1 align="center">
-  👋 Hello, I'm <span style="color:#58A6FF;">Jeevan Bhatt</span>
-</h1>
-
-<h3 align="center">
-  Full-Stack Developer • Educator • Lifelong Learner
-</h3>
-
-<hr/>
-
-## 👨‍💻 About Me
-
-- 🎓 **Education**: B.Ed. in Computer Science & IT  
-- 🧑‍🏫 **Profession**: Computer Teacher & Full-Stack Developer  
-- 🌱 **Currently Learning**: React, Next.js, Prisma, Sequelize, Supabase  
-- 🛠️ **Focus Areas**: SaaS systems, educational platforms, backend APIs  
-- 📫 **Contact**:
-  - Email: [codingwithjiwan@gmail.com](mailto:codingwithjiwan@gmail.com)
-  - Website: [jeevanbhatt.com.np](https://jeevanbhatt.com.np)
-  - LinkedIn: [linkedin.com/in/jeevanbhatt10000](https://linkedin.com/in/jeevanbhatt10000)
-
-<hr/>
-
-## 🧰 Tech Stack
+<h1 align="center">Jeevan Bhatt</h1>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,prisma,sequelize,mysql,mongodb,git,github,vscode,figma,wordpress&perline=8"
-  />
+  <strong>Full-Stack Developer • Educator • Lifelong Learner</strong>
 </p>
 
 <hr/>
 
-## 📊 GitHub Statistics
+<h2>👨‍💻 About</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jeevbhatt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevbhatt&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    width="48%"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jeevbhatt&theme=radical&hide_border=true"
-    width="80%"
-    alt="GitHub Streak"
-  />
-</p>
+<ul>
+  <li><strong>Education:</strong> B.Ed. in Computer Science & IT</li>
+  <li><strong>Profession:</strong> Computer Teacher & Full-Stack Developer</li>
+  <li><strong>Focus:</strong> Web applications, SaaS systems, backend APIs</li>
+  <li><strong>Currently learning:</strong> React, Next.js, Prisma, Sequelize, Supabase</li>
+</ul>
 
 <hr/>
 
-## 🛤️ Developer Roadmap
+<h2>🧰 Technical Skills</h2>
 
-- ✅ Personal portfolio website  
-- 🔄 Full-stack React / Next.js SaaS application  
-- ⛏️ Open-source contributions  
-- ✍️ Technical blogging / YouTube (planned)
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>HTML, CSS, JavaScript, TypeScript, React, Next.js</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>ORM / DB</strong></td>
+    <td>Prisma, Sequelize, MySQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git, GitHub, VS Code, Figma, WordPress</td>
+  </tr>
+</table>
 
 <hr/>
 
-## 🤝 Connect With Me
+<h2>📂 GitHub Activity</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jeevanbhatt10000">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:codingwithjiwan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jeevanbhatt.com.np">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<p>
+  All statistics, contribution graphs, commit history, and repository activity
+  shown on my GitHub profile are native to GitHub and reflect real work.
 </p>
 
+<ul>
+  <li>Consistent commits across projects</li>
+  <li>Educational and SaaS-focused repositories</li>
+  <li>Clean commit history and documentation</li>
+</ul>
+
+<hr/>
+
+<h2>🛤️ Roadmap</h2>
+
+<ul>
+  <li>✔ Personal portfolio website</li>
+  <li>🔄 Full-stack React / Next.js SaaS application</li>
+  <li>⛏️ Open-source contributions</li>
+  <li>✍ Technical blogging & teaching content</li>
+</ul>
+
+<hr/>
+
+<h2>🤝 Contact</h2>
+
+<ul>
+  <li>Email: <a href="mailto:codingwithjiwan@gmail.com">codingwithjiwan@gmail.com</a></li>
+  <li>Website: <a href="https://jeevanbhatt.com.np">jeevanbhatt.com.np</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/jeevanbhatt10000">linkedin.com/in/jeevanbhatt10000</a></li>
+</ul>
+
 <hr/>
 
 <p align="center">
-  Made with ❤️ by Jeevan Bhatt
+  <em>Built with clarity. Maintained with consistency.</em>
 </p>
