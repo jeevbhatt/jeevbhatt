@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer • Educator • Lifelong Learner
+  Full-Stack Developer • Educator • Researcher • Lifelong Learner
 </h3>
 
 <p align="center">
@@ -21,10 +21,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Education**: B.Ed. in Computer Science & IT  
-- 🧑‍🏫 **Role**: Computer Teacher & Full-Stack Developer  
-- ⚙️ **Primary Stack**: React, Next.js, Node.js  
+- 🧑‍🏫 **Role**: Computer Teacher, Researcher(Hardware and Programming Language) & Full-Stack Developer  
+- ⚙️ **Primary Stack**: React, Next.js, Node.j  
 - 🗄️ **Data & ORM**: Prisma, Sequelize, MySQL, MongoDB  
-- 🌱 **Current Focus**: Building maintainable full-stack applications  
+- 🌱 **Current Focus**: Researching on Programming Language  
 
 <hr/>
 
